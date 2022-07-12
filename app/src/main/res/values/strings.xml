@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Store gallery</string>
+    <string name="all">ALL</string>
+    <string name="party">PARTY</string>
+    <string name="camping">CAMPING</string>
+    <string name="rain">RAIN</string>
+    <string name="summer">SUMMER</string>
+    <string name="winter">WINTER</string>
+    <string name="autumn">AUTUMN</string>
+    <string name="name">name</string>
+    <string name="price">price</string>
+    <string name="category">category</string>
+    <string name="choose_a_category">Choose a category:</string>
+</resources>
